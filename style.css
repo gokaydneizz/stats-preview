@@ -8,7 +8,8 @@ body {
   background-color: hsl(233, 47%, 7%);
   font-size: 15px;
   max-width: 1440px;
-  margin: 160px auto;
+  margin: 0 auto;
+  margin-top: 100px;
   overflow: hidden;
   padding: 3rem;
 }
