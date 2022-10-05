@@ -151,7 +151,7 @@ img {
   .content {
     padding: 0em 1em;
     gap: 1.5em;
-    margin: 50px auto;
+    margin: 0 auto;
   }
 
   img {
