@@ -10,6 +10,7 @@ body {
   max-width: 1440px;
   margin: 160px auto;
   overflow: hidden;
+  padding: 3rem;
 }
 
 main {
@@ -88,13 +89,6 @@ img {
   font-size: 0.8rem;
   letter-spacing: 1.5px;
   color: hsla(0, 0%, 100%, 0.6);
-}
-
-@media only screen and (max-width: 1200px) {
-  body {
-    font-size: 12px;
-    margin: 50px auto;
-  }
 }
 
 @media only screen and (max-width: 920px) {
